@@ -26,7 +26,9 @@ console.log(headers, new TextDecoder().decode(body));
 
 ## Build
 
+TypeScript → JavaScript
 ```sh
+npm i
 npm run build
 ```
 
