@@ -13,3 +13,7 @@ coverage
 @type
 
 /src/**/*.js
+
+# auto-added by meta-ops
+node_modules/
+Thumbs.db
